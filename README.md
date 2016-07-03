@@ -1,6 +1,10 @@
 openvpn-notifier
 ================
 
+> NOTE: This is just a small toy. Not recommended for anything important.
+>       It is unlikely I will add tests or other things a proper project would
+>       have (including more features).
+
 Send Pushover.net notifications when an OpenVPN client connects.
 
 Tested on OpenBSD 5.9 with OpenVPN 2.3.10. It will likely work on many other
